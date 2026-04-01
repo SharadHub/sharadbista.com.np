@@ -67,6 +67,7 @@ The PostgreSQL schema (managed via Supabase) handles complex relational data —
     longDescription: `A marketplace platform where businesses post SEO projects and professionals bid on them. Features include dual-role auth (client/freelancer), project milestone management, and a bidding system.`,
     tech: ['PHP', 'MySQL', 'JavaScript', 'Bootstrap'],
     github: 'https://github.com/SharadHub/Updated-SEOMARKETPLACE',
+    liveUrl: 'https://seo-marketplace.onrender.com',
     type: 'Full Stack',
     color: '#a78bfa',
     preview: {
